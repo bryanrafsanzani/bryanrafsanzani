@@ -1,37 +1,27 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate developer, problem solver, and lifelong learner. I enjoy building things, exploring new technologies, and collaborating on exciting projects.
+Welcome to my GitHub profile! I'm Bryan Rafsanzani, a passionate Web Developer, Backend, problem solver, and lifelong learner. I enjoy building things, exploring new technologies, and collaborating on exciting projects.
 
 ---
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitLab:** [gitlab.com/your-username](https://gitlab.com/your-username)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
+- **LinkedIn:** [linkedin.com/in/bryan-rafsanzani]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bryan-rafsanzani/))
+- **GitLab:** [gitlab.com/bryanrafsanzani]([https://gitlab.com/your-username](https://gitlab.com/bryanrafsanzani))
+- **Website:** [bryanrafsanzani.site](https://bryanrafsanzani.site)
 
 ---
 
 ## 💻 Skills & Tools
 
-- **Languages:** [e.g., JavaScript, Python, PHP]
-- **Frameworks:** [e.g., Laravel, React, Django]
-- **Tools:** [e.g., Docker, Git, VS Code]
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- **Languages:** [JavaScript, PHP, Java]
+- **Frameworks:** [Laravel, Lumen, Boostrap]
+- **Tools:** [Linux, Apache2, Docker, Postman, Git, VS Code, Navicat]
 
 ---
 
 ## 🚀 Projects
-
-Here are some of my recent and noteworthy projects:
-- [**Project Name**](https://github.com/your-username/project-name): Short description of the project.
-- [**Another Project**](https://github.com/your-username/another-project): Short description of this one.
+[ON DEPLOYMENT]
 
 Feel free to explore my repositories for more!
 
